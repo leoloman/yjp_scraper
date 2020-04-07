@@ -11,5 +11,5 @@ Have i got the solution for you.
 I will guide you thru on finding your grails using my scraper.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](                                           https://colab.research.google.com/github/leoloman/yjp_scraper/blob/master/yahoo_jpn_scrape_v_2_colab.ipynb)[Open me in Google Colab and get Searching](https://colab.research.google.com/github/leoloman/yjp_scraper/blob/master/yahoo_jpn_scrape_v_2_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](                                           https://colab.research.google.com/github/leoloman/yjp_scraper/blob/master/yahoo_jpn_scrape_v_2_colab.ipynb)
 
