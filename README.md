@@ -1,3 +1,5 @@
+# No longer works due to the website changing
+
 # Yahoo Japan Auctions Scraper
 
 Do you want to Yahoo Japan Auction with ease?
